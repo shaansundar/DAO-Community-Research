@@ -1,5 +1,5 @@
-# DAO-Community-Research
-Research and Education materials for BUIDLing the most extensive DAO
+# DAO Community Research & Resources
+Research, Resource and Education materials for BUIDLing the most extensive DAO
 
 ## About
 This repository will hold all the research and data collected and worked upon by the DAO Community members over the course of time.
