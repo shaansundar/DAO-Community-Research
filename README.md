@@ -17,33 +17,33 @@ This repository will hold all the research and data collected and worked upon by
 ```
 root
 |
-+-- Technical
-|   +-- Frontend
-|   +-- Backend
-|   +-- Blockchain
-|   +-- Research
-|
 +-- Non-Technical
-|   +-- Operations
-|   +-- Marketing
 |   +-- Business Dev
-|   +-- PR
 |   +-- HR
-|   +-- Research
-|
-+-- Resources
-|   +-- Getting Started with Blockchain
-|   +-- DAO Basics
-|   +-- Markdown Tutorial
-|   +-- Git Basics Tutorial
-|   +-- VSCode Configurations 
-|   +-- Contribution Standards
-|   +-- Frontend Development Standards
-|   +-- Backend Development Standards
-|   +-- Blockchain Development Standards
-|   +-- Quick Links for Reference
+|   +-- Marketing
+|   +-- Operations
+|   +-- PR
+|   +-- Related Research
 |
 +-- Others
+|
++-- Resources
+|   +-- Backend Dev Standards
+|   +-- Blockchain Dev Standards
+|   +-- Contribution Standards
+|   +-- DAO Basics
+|   +-- Frontend Dev Standards
+|   +-- Getting Started with Blockchain
+|   +-- Git Basics Tutorial
+|   +-- Markdown Tutorial & Documentation Standards
+|   +-- Quick Links
+|   +-- VSCode Configurations 
+|
++-- Technical
+|   +-- Backend
+|   +-- Blockchain
+|   +-- Frontend
+|   +-- Related Research
 ```
 
 ## Contribution
